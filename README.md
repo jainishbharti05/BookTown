@@ -1,4 +1,4 @@
-# Dev-Bookstore
+# BookTown - Resell & Explore
 
 A complete e-commerce app built on the MERN stack that sells developer books.
 
@@ -41,7 +41,7 @@ A complete e-commerce app built on the MERN stack that sells developer books.
 
 ### Check out the deployed application at:
 
-- https://booktown.herokuapp.com/
+
 
 #### Contributiong
 
